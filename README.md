@@ -9,8 +9,7 @@ An Amazon clone is an e-commerce platform mimicking Amazon's features, including
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Tech Stack](#tech)
-- [License](#license)
-- [Acknowledgments](#Acknowledgements)
+- [Live Demo](#live Demo)
 
 ## Introduction
 An Amazon clone is a sophisticated e-commerce website designed to replicate the core functionalities of Amazon, offering features like user registration, product browsing, shopping carts, secure payment processing, and order tracking. This type of platform enables users to shop online with ease, while administrators can manage products, users, and orders efficiently. Developing an Amazon clone involves careful planning, a robust tech stack, and a focus on user experience and security, making it a comprehensive solution for modern online retail.
@@ -52,5 +51,8 @@ Right-click index.html and select "Open with Live Server."
 Initialize Git in your project folder if you plan to use version control
 - Open index.html in your web browser to see your initial layout and test your code.
 
-## 🛠 Tech Stack
+## Tech Stack
 Javascript, HTML, CSS...
+
+## Live Code
+
