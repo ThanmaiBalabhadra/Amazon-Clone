@@ -36,21 +36,21 @@ An Amazon clone is a sophisticated e-commerce website designed to replicate the 
 - Responsive Design: Understanding of responsive design principles for ensuring your site works well on different devices
 
 ### Installation
-1.Set Up Project Folder:
+- Set Up Project Folder:
 Create a new folder for your project (e.g., amazon-clone).
-2.Create Files:
+- Create Files:
 Inside the project folder, create index.html, styles.css, and script.js files.
-3.Code Editor:
+- Code Editor:
 Install a code editor like Visual Studio Code.
 Open your project folder in the code editor.
-4.Live Server (Optional):
+- Live Server (Optional):
 Install the Live Server extension in Visual Studio Code for real-time browser preview.
 Go to the Extensions view (Ctrl+Shift+X).
 Search for "Live Server" and install it.
 Right-click index.html and select "Open with Live Server."
-5.Version Control (Optional):
+- Version Control (Optional):
 Initialize Git in your project folder if you plan to use version control
-6.Open index.html in your web browser to see your initial layout and test your code.
+- Open index.html in your web browser to see your initial layout and test your code.
 
 ## 🛠 Tech Stack
 Javascript, HTML, CSS...
