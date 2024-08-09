@@ -9,7 +9,7 @@ An Amazon clone is an e-commerce platform mimicking Amazon's features, including
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Tech Stack](#tech)
-- [Live Demo](#live Demo)
+- [Live Demo](#liveDemo)
 
 ## Introduction
 An Amazon clone is a sophisticated e-commerce website designed to replicate the core functionalities of Amazon, offering features like user registration, product browsing, shopping carts, secure payment processing, and order tracking. This type of platform enables users to shop online with ease, while administrators can manage products, users, and orders efficiently. Developing an Amazon clone involves careful planning, a robust tech stack, and a focus on user experience and security, making it a comprehensive solution for modern online retail.
@@ -54,5 +54,6 @@ Initialize Git in your project folder if you plan to use version control
 ## Tech Stack
 Javascript, HTML, CSS...
 
-## Live Code
+### Live Code
+Live Demo -https://spectacular-dasik-70af80.netlify.app/
 
