@@ -15,18 +15,11 @@ An Amazon clone is an e-commerce platform mimicking Amazon's features, including
 ## Introduction
 An Amazon clone is a sophisticated e-commerce website designed to replicate the core functionalities of Amazon, offering features like user registration, product browsing, shopping carts, secure payment processing, and order tracking. This type of platform enables users to shop online with ease, while administrators can manage products, users, and orders efficiently. Developing an Amazon clone involves careful planning, a robust tech stack, and a focus on user experience and security, making it a comprehensive solution for modern online retail.
 ## Features
--User Accounts: Manage user registration, login, profiles, and order history 
--Product Listings: Display searchable and filterable product details with images and descriptions 
--Shopping Cart & Checkout: Add items to a cart, process payments securely, and confirm orders 
--Reviews & Ratings: Enable users to leave feedback and rate products
--Admin Panel: Control and manage products, users, and orders efficiently from a central dashboard
-
-
-- Generate passwords of variable length
-- Customize passwords with options for uppercase, lowercase, numbers, and symbols
-- Real-time feedback on password strength
-- Copy generated passwords to the clipboard with a single click
-- Dark and light theme options for user preference
+- User Accounts: Manage user registration, login, profiles, and order history 
+- Product Listings: Display searchable and filterable product details with images and descriptions 
+- Shopping Cart & Checkout: Add items to a cart, process payments securely, and confirm orders 
+- Reviews & Ratings: Enable users to leave feedback and rate products
+- Admin Panel: Control and manage products, users, and orders efficiently from a central dashboard
 ## Getting Started
 
 1.Set Up: Create a project folder with index.html, styles.css, and script.js files.
