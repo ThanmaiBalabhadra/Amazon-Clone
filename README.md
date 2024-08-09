@@ -22,18 +22,18 @@ An Amazon clone is a sophisticated e-commerce website designed to replicate the 
 - Admin Panel: Control and manage products, users, and orders efficiently from a central dashboard
 ## Getting Started
 
-1 Set Up: Create a project folder with index.html, styles.css, and script.js files
-2 HTML Structure: Design the layout with sections for the header, product listings, cart, and footer
-3 CSS Styling: Style the layout with styles.css, including responsive design and visual elements
-4 JavaScript Functionality: Use script.js to handle interactions like adding items to the cart and updating product displays
-5 Test and Refine: Test across browsers, refine UI, and ensure functionality works as expected
+- Set Up: Create a project folder with index.html, styles.css, and script.js files
+- HTML Structure: Design the layout with sections for the header, product listings, cart, and footer
+- CSS Styling: Style the layout with styles.css, including responsive design and visual elements
+- JavaScript Functionality: Use script.js to handle interactions like adding items to the cart and updating product displays
+- Test and Refine: Test across browsers, refine UI, and ensure functionality works as expected
 ### Prerequisites
 
-1.Basic Knowledge: Familiarity with HTML, CSS, and JavaScript for creating and styling web pages
-2.Development Tools: A code editor (e.g., VS Code) and a web browser for testing
-3.Version Control: Basic understanding of Git for tracking changes and collaboration
-4.Local Server: Optional, but helpful for testing JavaScript interactions (e.g., using Live Server extension in VS Code)
-5.Responsive Design: Understanding of responsive design principles for ensuring your site works well on different devices
+- Basic Knowledge: Familiarity with HTML, CSS, and JavaScript for creating and styling web pages
+- Development Tools: A code editor (e.g., VS Code) and a web browser for testing
+- Version Control: Basic understanding of Git for tracking changes and collaboration
+- Local Server: Optional, but helpful for testing JavaScript interactions (e.g., using Live Server extension in VS Code)
+- Responsive Design: Understanding of responsive design principles for ensuring your site works well on different devices
 
 ### Installation
 1.Set Up Project Folder:
