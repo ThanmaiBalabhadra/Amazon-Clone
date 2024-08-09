@@ -22,11 +22,11 @@ An Amazon clone is a sophisticated e-commerce website designed to replicate the 
 - Admin Panel: Control and manage products, users, and orders efficiently from a central dashboard
 ## Getting Started
 
-1.Set Up: Create a project folder with index.html, styles.css, and script.js files.
-2.HTML Structure: Design the layout with sections for the header, product listings, cart, and footer.
-3.CSS Styling: Style the layout with styles.css, including responsive design and visual elements.
-4.JavaScript Functionality: Use script.js to handle interactions like adding items to the cart and updating product displays.
-5.Test and Refine: Test across browsers, refine UI, and ensure functionality works as expected.
+1 Set Up: Create a project folder with index.html, styles.css, and script.js files
+2 HTML Structure: Design the layout with sections for the header, product listings, cart, and footer
+3 CSS Styling: Style the layout with styles.css, including responsive design and visual elements
+4 JavaScript Functionality: Use script.js to handle interactions like adding items to the cart and updating product displays
+5 Test and Refine: Test across browsers, refine UI, and ensure functionality works as expected
 ### Prerequisites
 
 1.Basic Knowledge: Familiarity with HTML, CSS, and JavaScript for creating and styling web pages
