@@ -31,11 +31,11 @@ An Amazon clone is a sophisticated e-commerce website designed to replicate the 
 5.Test and Refine: Test across browsers, refine UI, and ensure functionality works as expected.
 ### Prerequisites
 
-1.Basic Knowledge: Familiarity with HTML, CSS, and JavaScript for creating and styling web pages.
-2.Development Tools: A code editor (e.g., VS Code) and a web browser for testing.
-3.Version Control: Basic understanding of Git for tracking changes and collaboration.
-4.Local Server: Optional, but helpful for testing JavaScript interactions (e.g., using Live Server extension in VS Code).
-5.Responsive Design: Understanding of responsive design principles for ensuring your site works well on different devices.
+1.Basic Knowledge: Familiarity with HTML, CSS, and JavaScript for creating and styling web pages
+2.Development Tools: A code editor (e.g., VS Code) and a web browser for testing
+3.Version Control: Basic understanding of Git for tracking changes and collaboration
+4.Local Server: Optional, but helpful for testing JavaScript interactions (e.g., using Live Server extension in VS Code)
+5.Responsive Design: Understanding of responsive design principles for ensuring your site works well on different devices
 
 ### Installation
 1.Set Up Project Folder:
