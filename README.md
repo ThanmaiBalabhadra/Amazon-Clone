@@ -51,9 +51,9 @@ Right-click index.html and select "Open with Live Server."
 Initialize Git in your project folder if you plan to use version control
 - Open index.html in your web browser to see your initial layout and test your code.
 
-### Tech Stack
-Javascript, HTML, CSS...
+## Tech Stack
+- Javascript, HTML, CSS...
 
-### Live Demo
-Live Demo -https://spectacular-dasik-70af80.netlify.app/
+## Live Demo
+- Live Demo -https://spectacular-dasik-70af80.netlify.app/
 
