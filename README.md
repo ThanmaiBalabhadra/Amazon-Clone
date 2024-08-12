@@ -8,8 +8,8 @@ An Amazon clone is an e-commerce platform mimicking Amazon's features, including
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Tech Stack](#techstack)
-- [Live Demo](#liveDemo)
+- [Tech Stack](#tech-stack)
+- [Live Demo](#live-Demo)
 
 ## Introduction
 An Amazon clone is a sophisticated e-commerce website designed to replicate the core functionalities of Amazon, offering features like user registration, product browsing, shopping carts, secure payment processing, and order tracking. This type of platform enables users to shop online with ease, while administrators can manage products, users, and orders efficiently. Developing an Amazon clone involves careful planning, a robust tech stack, and a focus on user experience and security, making it a comprehensive solution for modern online retail.
@@ -26,7 +26,7 @@ An Amazon clone is a sophisticated e-commerce website designed to replicate the 
 - CSS Styling: Style the layout with styles.css, including responsive design and visual elements
 - JavaScript Functionality: Use script.js to handle interactions like adding items to the cart and updating product displays
 - Test and Refine: Test across browsers, refine UI, and ensure functionality works as expected
-### Prerequisites
+## Prerequisites
 
 - Basic Knowledge: Familiarity with HTML, CSS, and JavaScript for creating and styling web pages
 - Development Tools: A code editor (e.g., VS Code) and a web browser for testing
@@ -34,7 +34,8 @@ An Amazon clone is a sophisticated e-commerce website designed to replicate the 
 - Local Server: Optional, but helpful for testing JavaScript interactions (e.g., using Live Server extension in VS Code)
 - Responsive Design: Understanding of responsive design principles for ensuring your site works well on different devices
 
-### Installation
+## Installation
+
 - Set Up Project Folder:
 Create a new folder for your project (e.g., amazon-clone).
 - Create Files:
@@ -52,8 +53,10 @@ Initialize Git in your project folder if you plan to use version control
 - Open index.html in your web browser to see your initial layout and test your code.
 
 ## Tech Stack
+
 - Javascript, HTML, CSS...
 
 ## Live Demo
+
 - Live Demo -https://spectacular-dasik-70af80.netlify.app/
 
