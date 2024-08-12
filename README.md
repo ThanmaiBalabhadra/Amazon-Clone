@@ -8,7 +8,7 @@ An Amazon clone is an e-commerce platform mimicking Amazon's features, including
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Tech Stack](#tech)
+- [Tech Stack](#techstack)
 - [Live Demo](#liveDemo)
 
 ## Introduction
@@ -51,9 +51,9 @@ Right-click index.html and select "Open with Live Server."
 Initialize Git in your project folder if you plan to use version control
 - Open index.html in your web browser to see your initial layout and test your code.
 
-## Tech Stack
+### Tech Stack
 Javascript, HTML, CSS...
 
-### Live Code
+### Live Demo
 Live Demo -https://spectacular-dasik-70af80.netlify.app/
 
